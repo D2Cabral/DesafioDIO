@@ -1,2 +1,2 @@
-# DesafioDIO
-Desafio repositório DIO
+# BootcampDIO
+Repositório com projetos realizados durante o Bootcamp
